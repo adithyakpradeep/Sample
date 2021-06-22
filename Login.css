@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.Box{
+    width: 300px;
+    height: 500px;
+    border: 3px  solid black;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    /* background-color: black; */
+    color: white;
+}
+.Box h1{
+    color: blue;
+    font-weight: 800px;
+} 
+.content{
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 24px;
+}
+.content:hover{
+    width: 215px;
+    color: chocolate;
+}
